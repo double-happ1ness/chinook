@@ -1,0 +1,100 @@
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CoreCompileInputs.cache
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\Downloads\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb

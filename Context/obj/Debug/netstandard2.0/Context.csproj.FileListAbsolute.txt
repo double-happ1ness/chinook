@@ -1,0 +1,3 @@
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.0\Context.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.0\Context.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Context\obj\Debug\netstandard2.0\Context.AssemblyInfo.cs

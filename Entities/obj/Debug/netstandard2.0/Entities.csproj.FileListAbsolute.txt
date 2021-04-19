@@ -1,0 +1,32 @@
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\DbApps\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\EDUCATIONAL STUFF\UNI STUFF\Internet Scripting\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\DOWNLOADS\STUDY\UNI\IS\CourseworkTwo\CourseworkTwo-04-09b\CourseworkTwo\Entities\obj\Debug\netstandard2.0\Entities.pdb
