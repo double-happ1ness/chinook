@@ -1,4 +1,4 @@
-namespace Project.Models        //changed from 'Project'
+namespace Project.Models        
 {
     public class Album
     {

@@ -2,10 +2,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using Project.Models;                  //changed from 'Project'
+using Project.Models;
+using System;
 
-
-namespace Project.Pages         //changed from Northwind.Pages
+namespace Project.Pages
 {
     public class AlbumsModel : PageModel
     {
@@ -19,7 +19,8 @@ namespace Project.Pages         //changed from Northwind.Pages
         public void OnGet()
         {
             ViewData["Title"] = "Chinook Web Site - Albums";
-            Albums = db.Albums.Select(s => s.Title);
+            // Albums = db.Albums.Select(s => s.Title);
+            Albums = db.Albums.Select(s => s.AlbumId.ToString() + ". " + s.ArtistId + ". " + s.Title);
         }
         [BindProperty]
         public Album Album { get; set; }
@@ -33,6 +34,24 @@ namespace Project.Pages         //changed from Northwind.Pages
                 return RedirectToPage("/albums");
             }
             return Page();
+        }
+
+        // void RemoveAlbum(int albumId)
+        // {
+        //     var album = db.Albums.Find(albumId);
+        //     if (album == null)
+        //         throw new ArgumentOutOfRangeException();
+        //     db.Albums.Remove(album);
+        //     db.SaveChanges();
+        // }
+
+        public IActionResult DeleteAlbum(int AlbumId)
+        {
+            var album = db.Albums.Find(AlbumId);
+
+            if (album == null) return Page();
+
+            db.Albums.Remove(album); db.SaveChanges(); return RedirectToPage("/albums");
         }
     }
 }

@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.IO;
 using Microsoft.EntityFrameworkCore; 
-using Project.Models;  //changed from 'Project'
+using Project.Models;  
 
 namespace WebApp
 {
@@ -21,12 +21,11 @@ namespace WebApp
         {
             services.AddRazorPages();
 
-            //You need to add one line to say 'Add this Database service for use in this webapp'
+            
              services.AddDbContext<Chinook>();            
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+                public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {

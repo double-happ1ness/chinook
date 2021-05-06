@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Project.Models;           //Uncommented out, need this to recognise Album or Track entities classes
+using Project.Models;           
 
-namespace Project.Models        //changed from Project
+namespace Project.Models        
 {
     public class Chinook : DbContext
     {
@@ -19,7 +19,7 @@ namespace Project.Models        //changed from Project
             optionsBuilder.UseSqlite($"Filename={path}");
         }
 
-        // //the scaffold
+
         //  protected override void OnModelCreating(ModelBuilder modelBuilder)
         // {   
         //     base.OnModelCreating(modelBuilder);

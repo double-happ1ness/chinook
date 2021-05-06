@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic;
-using Project.Models;           //changed from 'Project'
+using Project.Models;          
 using System.Linq;
 
 namespace WebApp.Pages

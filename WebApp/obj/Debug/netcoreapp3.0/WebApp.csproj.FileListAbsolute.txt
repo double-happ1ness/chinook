@@ -830,3 +830,4 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\Coursework
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.csproj.CopyComplete
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\Delete.cshtml.g.cs
