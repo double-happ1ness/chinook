@@ -1,5 +1,6 @@
 @page
-@model Project.Pages.AlbumsModel            
+@using Project.Models
+@model Project.Pages.AlbumsModel
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <div class="row">
@@ -7,15 +8,27 @@
     <table class="table">
         <thead class="thead-inverse">
             <tr>
-                <th>Album ID, artist ID, Album title</th>
+                <th>Album ID</th>
+                <th>Artist ID</th>
+                <th>Artist name</th>
+                <th>Album title</th>
+                <th></th>
+                <th></th>
             </tr>
         </thead>
+
         <tbody>
-            @foreach (string album in Model.Albums)
+            @foreach (Album album in Model.Albums)
             {
                 <tr>
-                    <td>@album</td>
-                    <td><a asp-page="./Delete" asp-route-id="@album">Delete</a></td>
+                    <td>@album.AlbumId</td>
+                    <td>@album.ArtistId</td>
+                    <td>@Html.DisplayFor(modelArtists => album.Artist.Name)</td>
+                    <td>@album.Title</td>
+                    <td><a asp-page="/Albums/Details" asp-route-id="@album.AlbumId">Details</a></td>
+                    <td><a asp-page="/Albums/Edit" asp-route-id="@album.AlbumId">Edit</a></td>
+                    <td><a asp-page="/Albums/Delete" asp-route-id="@album.AlbumId">Delete</a></td>   
+                    <td><a asp-page="/Albums/AlbumTracks" asp-route-id="@album.AlbumId">Tracks</a></td>       
                 </tr>
             }
         </tbody>
@@ -28,10 +41,7 @@
         <div><input asp-for="Album.ArtistId" /></div>
         <input type="submit" />
     </form>
-        @* <p>Enter a value and Album ID for a new album title:&nbsp;</p>
-    <form method="POST">
-        <div><input asp-for="Album.Title" /></div>
-        <div><input asp-for="Album.AlbumId" /></div>
-        <input type="submit" />
-    </form> *@
+</div>
+<div>
+    <a asp-page="/Index">Home</a>
 </div>

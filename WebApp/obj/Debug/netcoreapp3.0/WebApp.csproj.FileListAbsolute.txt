@@ -831,3 +831,17 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\Coursework
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.pdb
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\Delete.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\Edit.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\artists.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\Details.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\tracks.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Artists\Delete.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Artists\Details.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Artists\Edit.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Tracks\Delete.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Tracks\Details.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Tracks\Edit.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\AlbumTracks.cshtml.g.cs

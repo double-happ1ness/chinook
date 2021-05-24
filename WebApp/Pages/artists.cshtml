@@ -1,0 +1,42 @@
+@page
+@using Project.Models
+@model Project.Pages.ArtistsModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <h1 class="display-2">Artists</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Artist ID</th>
+                <th>Artist Name</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (Artist artist in Model.Artists)
+            {
+                <tr>
+                    <td>@artist.ArtistId</td>
+                    <td>@artist.Name</td>
+                    <td><a asp-page="/Artists/Details" asp-route-id="@artist.ArtistId">Details</a></td>
+                    <td><a asp-page="/Artists/Edit" asp-route-id="@artist.ArtistId">Edit</a></td>
+                    <td><a asp-page="/Artists/Delete" asp-route-id="@artist.ArtistId">Delete</a></td>  
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    <p>Enter a title & ArtistID for a new artist:&nbsp;</p>
+    <form method="POST">
+        <div><input asp-for="Artist.Name" /></div>
+        <div><input asp-for="Artist.ArtistId" /></div>
+        <input type="submit" />
+    </form>
+</div>
+<div>
+    <a asp-page="/Index">Home</a>
+</div>

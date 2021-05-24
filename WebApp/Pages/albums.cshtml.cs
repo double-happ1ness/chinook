@@ -1,9 +1,10 @@
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using Project.Models;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Project.Pages
 {
@@ -15,12 +16,11 @@ namespace Project.Pages
         {
             db = injectedContext;
         }
-        public IEnumerable<string> Albums { get; set; }
-        public void OnGet()
+        public IEnumerable<Album> Albums { get; set; }
+        public void OnGetAsync()
         {
             ViewData["Title"] = "Chinook Web Site - Albums";
-            // Albums = db.Albums.Select(s => s.Title);
-            Albums = db.Albums.Select(s => s.AlbumId.ToString() + ". " + s.ArtistId + ". " + s.Title);
+            Albums = db.Albums.Include(a => a.Artist);
         }
         [BindProperty]
         public Album Album { get; set; }
@@ -35,15 +35,6 @@ namespace Project.Pages
             }
             return Page();
         }
-
-        // void RemoveAlbum(int albumId)
-        // {
-        //     var album = db.Albums.Find(albumId);
-        //     if (album == null)
-        //         throw new ArgumentOutOfRangeException();
-        //     db.Albums.Remove(album);
-        //     db.SaveChanges();
-        // }
 
         public IActionResult DeleteAlbum(int AlbumId)
         {

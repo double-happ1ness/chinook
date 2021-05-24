@@ -1,33 +1,47 @@
 using Microsoft.EntityFrameworkCore;
-using Project.Models;           
 
-namespace Project.Models        
+namespace Project.Models
 {
     public class Chinook : DbContext
     {
         public DbSet<Album> Albums { get; set; }
-        // public DbSet<Artist> Artists { get; set; }
-        // public DbSet<Track> Tracks { get; set; }
-        // public DbSet<Genre> Genres { get; set; }
-        // public DbSet<Media_type> Media_types { get; set; }
+        public DbSet<Artist> Artists { get; set; }
+        public DbSet<Track> Tracks { get; set; }
+        public DbSet<Genre> Genres { get; set; }
+        public DbSet<Media_type> Media_types { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-            // string path = System.IO.Path.Combine(System.Environment.CurrentDirectory, "chinook.db");
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
             string CurrentDir = System.Environment.CurrentDirectory;
             string ParentDir = System.IO.Directory.GetParent(CurrentDir).FullName;
             string path = System.IO.Path.Combine(ParentDir, "chinook.db");
             optionsBuilder.UseSqlite($"Filename={path}");
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Album>()
+            .ToTable("albums")
+                .HasOne(al => al.Artist)
+                .WithMany(ar => ar.Albums)
+                .HasForeignKey(al => al.ArtistId);
 
-        //  protected override void OnModelCreating(ModelBuilder modelBuilder)
-        // {   
-        //     base.OnModelCreating(modelBuilder);
-        //     modelBuilder.Entity<Track>()
-        //     .HasOne(mtype => mtype.Media_type)
-        //     .WithMany(trk => trk.Tracks)
-        //     .HasForeignKey(mtype => mtype.MediaTypeId)
-        //     .OnDelete(DeleteBehavior.NoAction);
-        // }   
+            modelBuilder.Entity<Artist>().ToTable("artists");
+
+            modelBuilder.Entity<Media_type>()
+            .ToTable("media_types")
+            .HasKey(c => c.MediaTypeId);
+
+            modelBuilder.Entity<Genre>().ToTable("genres");
+
+            modelBuilder.Entity<Track>()
+            .ToTable("tracks")
+        .HasOne(mtype => mtype.Artist)
+        .WithMany(trk => trk.Tracks)
+        .HasForeignKey(mtype => mtype.AlbumId)
+        .HasForeignKey(mtype => mtype.GenreId)
+        .HasForeignKey(mtype => mtype.MediaTypeId)
+        .OnDelete(DeleteBehavior.NoAction);
+        }
     }
 }

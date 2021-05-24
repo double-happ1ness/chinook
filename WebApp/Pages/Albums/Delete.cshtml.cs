@@ -1,11 +1,11 @@
 ﻿#region snippet_All
-using Project.Models; //using ContosoUniversity.Models;
+using Project.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
-namespace Project.Pages.Albums //ContosoUniversity.Pages.Students
+namespace Project.Pages.Albums
 {
     public class DeleteModel : PageModel
     {
@@ -20,12 +20,8 @@ namespace Project.Pages.Albums //ContosoUniversity.Pages.Students
         public Album Album { get; set; }
         public string ErrorMessage { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(int? id, bool? saveChangesError = false)
+        public async Task<IActionResult> OnGetAsync(int id, bool? saveChangesError = false)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
 
             Album = await _context.Albums
                 .AsNoTracking()
@@ -62,12 +58,12 @@ namespace Project.Pages.Albums //ContosoUniversity.Pages.Students
             {
                 _context.Albums.Remove(album);
                 await _context.SaveChangesAsync();
-                return RedirectToPage("./Index");
+                return RedirectToPage("/Albums");
             }
             catch (DbUpdateException /* ex */)
             {
-                //Log the error (uncomment ex variable name and write a log.)
-                return RedirectToAction("./Delete",
+                //To do: log the error (uncomment ex variable name and write a log).
+                return RedirectToAction("/Albums/Delete",
                                      new { id, saveChangesError = true });
             }
         }

@@ -1,0 +1,42 @@
+@page
+@using Project.Models
+@model Project.Pages.TracksModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <h1 class="display-2">Tracks</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Track ID</th>
+                <th>Track name</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (Track track in Model.Tracks)
+            {
+                <tr>
+                    <td>@track.TrackId</td>
+                    <td>@track.Name</td>
+                    <td><a asp-page="/Tracks/Details" asp-route-id="@track.TrackId">Details</a></td>
+                    <td><a asp-page="/Tracks/Edit" asp-route-id="@track.TrackId">Edit</a></td>
+                    <td><a asp-page="/Tracks/Delete" asp-route-id="@track.TrackId">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="row">
+    <p>Enter a name & TrackID for a new track:&nbsp;</p>
+    <form method="POST">
+        <div><input asp-for="Track.Name" /></div>
+        <div><input asp-for="Track.TrackId" /></div>
+        <input type="submit" />
+    </form>
+</div>
+<div>
+    <a asp-page="/Index">Home</a>
+</div>

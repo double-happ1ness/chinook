@@ -1,0 +1,40 @@
+@page
+@using Project.Models
+@model Project.Pages.AlbumTracksModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="row">
+    <h1 class="display-2">Tracks</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Track name</th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (Track track in Model.Tracks)
+            {
+                <tr>
+                    <td>@track.TrackId</td>
+                    <td>@track.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@* <div class="row">
+    <p>Enter a name & TrackID for a new track:&nbsp;</p>
+    <form method="POST">
+        <div><input asp-for="Track.Name" /></div>
+        <div><input asp-for="Track.TrackId" /></div>
+        <input type="submit" />
+    </form>
+</div> *@
+<div>
+    <a asp-page="/Index">Home</a>
+</div>

@@ -1,7 +1,9 @@
-﻿@page
+﻿@page "{id?}"
 @model Project.Pages.Albums.DeleteModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 @{
+
     ViewData["Title"] = "Delete";
 }
 
@@ -34,9 +36,8 @@
         </dd>
     </dl>
 
-    <form method="Delete">
-        <input type="hidden" asp-for="AlbumId" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-page="./Index">Back to List</a>
+    <form method="post">
+        <input type="submit" value="Delete" asp-route-id="@Model.Album.AlbumId" class="btn btn-danger" /> |
+        <a asp-page="/Albums">Back to List</a>
     </form>
 </div>
