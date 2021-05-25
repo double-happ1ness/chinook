@@ -8,11 +8,8 @@
     <table class="table">
         <thead class="thead-inverse">
             <tr>
+                <th>Track ID</th>
                 <th>Track name</th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
             </tr>
         </thead>
 
@@ -27,14 +24,14 @@
         </tbody>
     </table>
 </div>
-@* <div class="row">
-    <p>Enter a name & TrackID for a new track:&nbsp;</p>
+<div class="row">
+    <p>Enter a name & ID for a new track:&nbsp;</p>
     <form method="POST">
         <div><input asp-for="Track.Name" /></div>
         <div><input asp-for="Track.TrackId" /></div>
         <input type="submit" />
     </form>
-</div> *@
+</div>
 <div>
     <a asp-page="/Index">Home</a>
 </div>

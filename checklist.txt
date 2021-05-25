@@ -4,7 +4,7 @@ Fit for Purpose
 Reading Records
 • A Chinook employee must be able to view album titles (from the Albums table) (X)
 • A Chinook employee must also be able view related information – such as albums artists
-from the Artists table (X) and albums track listings from the Tracks table ()
+from the Artists table (X) and albums track listings from the Tracks table (X)
 Creating Records
 • A Chinook employee must be able to add new album titles to the Albums table (X)
 • A Chinook employee must also be able to add related information – such as albums artists to

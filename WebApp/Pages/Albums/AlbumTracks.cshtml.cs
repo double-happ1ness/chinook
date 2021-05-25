@@ -17,15 +17,35 @@ namespace Project.Pages
             db = injectedContext;
         }
         public IEnumerable<Track> Tracks { get; set; }
-        public void OnGetAsync()
+        public void OnGetAsync(int id)
         {
             ViewData["Title"] = "Chinook Web Site - Tracks";
-            Tracks = db.Tracks.Include(a => a.Album);
+            Tracks = db.Tracks.Include(a => a.Album).Where(a => a.AlbumId == id);
         }
 
-        // public void OnPostAsync(int? AlbumId, int? TrackId)
-        // {
-        //     // Collection.SingleOrDefault(c => c.CollectionId == AlbumId);
-        // }
+        [BindProperty]
+        public Track Track { get; set; }
+
+        public IActionResult OnPost(int id)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Tracks.Add(Track);
+                db.SaveChanges();
+                return RedirectToPage("/Albums/AlbumTracks?id=" + id);
+            }
+            return Page();
+        }
+
+        public IActionResult DeleteTrack(int TrackId, int id)
+        {
+            var track = db.Tracks.Find(TrackId);
+
+            if (track == null) return Page();
+
+            db.Tracks.Remove(track);
+            db.SaveChanges();
+            return RedirectToPage("/Albums/AlbumTracks?id=" + id);
+        }
     }
 }

@@ -42,7 +42,9 @@ namespace Project.Pages
 
             if (album == null) return Page();
 
-            db.Albums.Remove(album); db.SaveChanges(); return RedirectToPage("/albums");
+            db.Albums.Remove(album);
+            db.SaveChanges();
+            return RedirectToPage("/albums");
         }
     }
 }

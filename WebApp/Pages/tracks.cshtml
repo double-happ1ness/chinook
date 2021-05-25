@@ -8,10 +8,10 @@
     <table class="table">
         <thead class="thead-inverse">
             <tr>
+                <th>Artist name</th>
+                <th>Album name</th>
                 <th>Track ID</th>
                 <th>Track name</th>
-                <th></th>
-                <th></th>
             </tr>
         </thead>
 
@@ -19,6 +19,8 @@
             @foreach (Track track in Model.Tracks)
             {
                 <tr>
+                    <td>@Html.DisplayFor(modelArtists => track.Artist.Name)</td>
+                    <td>@Html.DisplayFor(modelAlbums => track.Album.Title)</td>
                     <td>@track.TrackId</td>
                     <td>@track.Name</td>
                     <td><a asp-page="/Tracks/Details" asp-route-id="@track.TrackId">Details</a></td>
