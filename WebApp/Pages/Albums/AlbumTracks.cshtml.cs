@@ -17,7 +17,7 @@ namespace Project.Pages
             db = injectedContext;
         }
         public IEnumerable<Track> Tracks { get; set; }
-        public void OnGetAsync(int id)
+        public void OnGetAsync(int id, int AlbumId)
         {
             ViewData["Title"] = "Chinook Web Site - Tracks";
             Tracks = db.Tracks.Include(a => a.Album).Where(a => a.AlbumId == id);
@@ -28,11 +28,12 @@ namespace Project.Pages
 
         public IActionResult OnPost(int id)
         {
+            Track.AlbumId = id;  //set the albumid by the request url...
             if (ModelState.IsValid)
             {
                 db.Tracks.Add(Track);
                 db.SaveChanges();
-                return RedirectToPage("/Albums/AlbumTracks?id=" + id);
+                return RedirectToPage("/Albums/AlbumTracks", new {id = id });
             }
             return Page();
         }
@@ -45,7 +46,7 @@ namespace Project.Pages
 
             db.Tracks.Remove(track);
             db.SaveChanges();
-            return RedirectToPage("/Albums/AlbumTracks?id=" + id);
+            return RedirectToPage("/Albums/AlbumTracks", new {id = id });
         }
     }
 }
