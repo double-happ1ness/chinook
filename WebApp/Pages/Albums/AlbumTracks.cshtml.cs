@@ -28,7 +28,7 @@ namespace Project.Pages
 
         public IActionResult OnPost(int id)
         {
-            Track.AlbumId = id;  //set the albumid by the request url...
+            Track.AlbumId = id;
             if (ModelState.IsValid)
             {
                 db.Tracks.Add(Track);

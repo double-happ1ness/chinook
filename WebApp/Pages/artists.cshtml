@@ -23,17 +23,18 @@
                     <td>@artist.Name</td>
                     <td><a asp-page="/Artists/Details" asp-route-id="@artist.ArtistId">Details</a></td>
                     <td><a asp-page="/Artists/Edit" asp-route-id="@artist.ArtistId">Edit</a></td>
-                    <td><a asp-page="/Artists/Delete" asp-route-id="@artist.ArtistId">Delete</a></td>  
+                    <td><a asp-page="/Artists/Delete" asp-route-id="@artist.ArtistId">Delete</a></td> 
+                    <td><a asp-page="/Albums/ArtistAlbums" asp-route-id="@artist.ArtistId">Albums</a></td>     
                 </tr>
             }
         </tbody>
     </table>
 </div>
 <div class="row">
-    <p>Enter a title & ArtistID for a new artist:&nbsp;</p>
+    <p>Enter a name for a new artist:&nbsp;</p>
     <form method="POST">
         <div><input asp-for="Artist.Name" /></div>
-        <div><input asp-for="Artist.ArtistId" /></div>
+        @* <div><input asp-for="Artist.ArtistId" /></div> *@
         <input type="submit" />
     </form>
 </div>

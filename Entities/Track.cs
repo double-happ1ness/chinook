@@ -12,7 +12,8 @@ namespace Project.Models
         public  int? Bytes { get; set; }
         public  int? UnitPrice { get; set; }
         public  Album Album { get; set; }
-        public Artist Artist { get; set; }
+        public Genre Genre { get; set; }
+        public Media_type Media_type { get; set;}
 
     }
 }

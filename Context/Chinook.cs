@@ -34,14 +34,25 @@ namespace Project.Models
 
             modelBuilder.Entity<Genre>().ToTable("genres");
 
+
+            modelBuilder.Entity<Track>()
+    .ToTable("tracks")
+    .HasOne(trk => trk.Album)
+    .WithMany(trk => trk.Tracks)
+    .HasForeignKey(trk => trk.AlbumId)
+     .OnDelete(DeleteBehavior.NoAction);
+
             modelBuilder.Entity<Track>()
             .ToTable("tracks")
-        .HasOne(mtype => mtype.Artist)
-        .WithMany(trk => trk.Tracks)
-        .HasForeignKey(mtype => mtype.AlbumId)
-        .HasForeignKey(mtype => mtype.GenreId)
-        .HasForeignKey(mtype => mtype.MediaTypeId)
-        .OnDelete(DeleteBehavior.NoAction);
+            .HasOne(trk => trk.Genre)
+            .WithMany(trk => trk.Tracks)
+            .HasForeignKey(trk => trk.GenreId);
+
+            modelBuilder.Entity<Track>()
+            .ToTable("tracks")
+            .HasOne(trk => trk.Media_type)
+            .WithMany(trk => trk.Tracks)
+           .HasForeignKey(mtype => mtype.MediaTypeId);
         }
     }
 }

@@ -20,8 +20,7 @@ namespace Project.Pages
         public void OnGetAsync()
         {
             ViewData["Title"] = "Chinook Web Site - Tracks";
-            Tracks = db.Tracks.Include(a => a.Album)
-            .Include(a => a.Artist);
+            Tracks = db.Tracks.Include(a => a.Album).ThenInclude(a => a.Artist);
         }
         [BindProperty]
         public Track Track { get; set; }

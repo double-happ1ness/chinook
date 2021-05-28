@@ -1,35 +1,38 @@
 @page
 @using Project.Models
-@model Project.Pages.AlbumTracksModel
+@model Project.Pages.ArtistAlbumsModel
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <div class="row">
-    <h1 class="display-2">Tracks</h1>
+    <h1 class="display-2">Albums by @Model.Artist</h1>
     <table class="table">
         <thead class="thead-inverse">
             <tr>
-                <th>Track ID</th>
-                <th>Track name</th>
+                <th>Album ID</th>
+                <th>Album title</th>
             </tr>
         </thead>
 
         <tbody>
-            @foreach (Track track in Model.Tracks)
+            @foreach (Album album in Model.Albums)
             {
                 <tr>
-                    <td>@track.TrackId</td>
-                    <td>@track.Name</td>
+                    <td>@album.AlbumId</td>
+                    <td>@album.Title</td>
                 </tr>
             }
         </tbody>
     </table>
 </div>
 <div class="row">
-    <p>Enter a name for a new track:&nbsp;</p>
+    <p>Enter a name for a new album:&nbsp;</p>
     <form method="POST">
-        <div><input asp-for="Track.Name" /></div>
+        <div><input asp-for="Album.Title" /></div>
         <input type="submit" />
     </form>
+</div>
+<div>
+    <a asp-page="/Artists">Back to list</a>
 </div>
 <div>
     <a asp-page="/Index">Home</a>
