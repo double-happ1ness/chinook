@@ -530,7 +530,6 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\Web
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\appsettings.json
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\WebApp.exe
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\WebApp.deps.json
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.json
@@ -570,9 +569,7 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
@@ -607,9 +604,7 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Entities.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Context.pdb
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\Entities.pdb
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.csprojAssemblyReference.cache
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.xml
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cache
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cs
@@ -846,3 +841,9 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Tracks\Edit.cshtml.g.cs
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\AlbumTracks.cshtml.g.cs
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Albums\ArtistAlbums.cshtml.g.cs
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\bin\Debug\netcoreapp3.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.csproj.AssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\WebApp\obj\Debug\netcoreapp3.0\WebApp.genruntimeconfig.cache

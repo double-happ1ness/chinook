@@ -69,7 +69,6 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Context.pdb
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\bin\Debug\netstandard2.1\Entities.pdb
-D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
@@ -98,3 +97,6 @@ D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\Coursework
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.dll
 D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo-04-18b\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.pdb
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.AssemblyReference.cache
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\STUDY\UNI\IS\PROJECTS\CourseworkTwo\CourseworkTwo\Context\obj\Debug\netstandard2.1\Context.csproj.CoreCompileInputs.cache
